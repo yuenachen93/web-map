@@ -4,5 +4,5 @@
 ![volcanoes](https://github.com/yuenachen93/web-map/blob/master/app2-web-map/imgs/volcanoes.png)
 
 
-- Represents population in different colores worldwide 
+- Represents population range in different colores worldwide 
 ![population](https://github.com/yuenachen93/web-map/blob/master/app2-web-map/imgs/population.png)
